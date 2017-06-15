@@ -1,5 +1,5 @@
 # SmartTracingCar
-51单片机智能寻迹小车</br>
+一个基于51单片机的智能寻迹小车</br>
 
 ![image](https://github.com/linyacool/SmartTracingCar/blob/master/car.JPG)</br>
 
